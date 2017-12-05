@@ -1,0 +1,26 @@
+.video {
+	margin-bottom: 50px;
+	float: left;
+	width: 33%;
+}
+
+.video img {
+	width: 300px;
+	width: 100%;
+}
+
+.video p{
+	padding: 10px;
+	background-color: lightgreen;
+}
+
+.description {
+	background-color: pink;
+	padding: 10px;
+	border:  10px solid #000000;
+}
+
+.clr {
+	clear: both;
+}
+
